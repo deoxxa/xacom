@@ -1,4 +1,4 @@
-package xacom
+package xacom // import "fknsrs.biz/p/xacom"
 
 import (
 	"encoding"
